@@ -23,6 +23,8 @@ A curated list of data science, analysis and visualization tools with enphasis o
 - [Data](#data)
   - [Sources](#sources)
   - [Aggregators](#aggregators)
+- [Visualization](#visualization)
+  - [Libraries](#libraries-1)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
