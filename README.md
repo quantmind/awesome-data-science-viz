@@ -6,6 +6,8 @@ A curated list of data science, analysis and visualization tools with enphasis o
 
 * [Contributing](https://github.com/quantmind/awesome-data-science-viz/blob/master/contributing.md)
 
+## Contents
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
