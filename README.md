@@ -1,8 +1,7 @@
-# Awesome Data Science & Visualization
+# Awesome Data Science & Visualization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 A curated list of data science, analysis and visualization tools with enphasis on python, d3 and web applications.
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 * [Contributing](https://github.com/quantmind/awesome-data-science-viz/blob/master/contributing.md)
 
