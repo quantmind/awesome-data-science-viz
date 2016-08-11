@@ -79,6 +79,12 @@ A curated list of data science, analysis and visualization tools with enphasis o
 * [pyspider](https://github.com/binux/pyspider) a web crawler system in python
 
 
+## Visualization
+
+### Libraries
+
+* [Chart.js](https://github.com/chartjs/Chart.js) HTML5 Charts using the <canvas> tag
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
