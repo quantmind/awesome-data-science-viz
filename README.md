@@ -23,10 +23,18 @@ A curated list of data science, analysis and visualization tools with enphasis o
 
 ## Machine Learning
 
+* [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning) collections of links and notebooks for a gentle introduction to machine learning
+
+### Libraries
+
 * [Theano][] is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
 * [TensorFlow][] library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.
 * [Keras](https://github.com/fchollet/keras) Deep Learning library for [Theano][] and [TensorFlow][]
 
+### Examples
+
+* [AIMA python](https://github.com/aimacode/aima-python) Python code for the book [Artificial Intelligence: A Modern Approach](https://www.amazon.co.uk/Artificial-Intelligence-Approach-Stuart-Russell/dp/1292153962)
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) a [TensorFlow][] tutorial with popular machine learning algorithms implementation
 
 ## Text
 
@@ -37,6 +45,10 @@ A curated list of data science, analysis and visualization tools with enphasis o
 ### Tools
 
 * [inflect.py](https://github.com/pwdyson/inflect.py) Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
+
+## Images
+
+* [match](https://github.com/usepavlov/match) makes it easy to search for images that look similar to each other
 
 ## Data
 
