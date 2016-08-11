@@ -13,6 +13,7 @@ A curated list of data science, analysis and visualization tools with enphasis o
 
 
 - [Machine Learning](#machine-learning)
+  - [Resources](#resources)
   - [Libraries](#libraries)
   - [Examples](#examples)
 - [Text](#text)
@@ -20,12 +21,17 @@ A curated list of data science, analysis and visualization tools with enphasis o
   - [Tools](#tools)
 - [Images](#images)
 - [Data](#data)
+  - [Sources](#sources)
+  - [Aggregators](#aggregators)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Machine Learning
 
+### Resources
+
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) comprehensive list of machine learning resources
 * [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning) collections of links and notebooks for a gentle introduction to machine learning
 
 ### Libraries
@@ -34,6 +40,8 @@ A curated list of data science, analysis and visualization tools with enphasis o
 * [TensorFlow][] library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.
 * [Keras](https://github.com/fchollet/keras) Deep Learning library for [Theano][] and [TensorFlow][]
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. Writtent in C++ with bindings for python and other languages.
+* [CNTK](https://github.com/Microsoft/CNTK) computational network toolkit. A C++ library by Microsoft Research.
+* [OpenNN](https://github.com/Artelnics/OpenNN) a neural network C++ library
 
 ### Examples
 
@@ -58,8 +66,15 @@ A curated list of data science, analysis and visualization tools with enphasis o
 
 ## Data
 
+### Sources
+
 * [Public APIs](https://github.com/toddmotto/public-apis) a collective list of public JSON APIs for use in web development
 * [7 and a quarter hours of largely highway driving](https://github.com/commaai/research) from [comma.ai research](http://comma.ai/)
+
+### Aggregators
+
+* [pyspider](https://github.com/binux/pyspider) a web crawler system in python
+
 
 ## License
 
