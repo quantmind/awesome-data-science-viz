@@ -43,6 +43,7 @@ A curated list of data science, analysis and visualization tools with enphasis o
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. Writtent in C++ with bindings for python and other languages.
 * [CNTK](https://github.com/Microsoft/CNTK) computational network toolkit. A C++ library by Microsoft Research.
 * [OpenNN](https://github.com/Artelnics/OpenNN) a neural network C++ library
+* [XGboost](https://github.com/dmlc/xgboost) an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. Written in C++ with python integration.
 
 ### Examples
 
