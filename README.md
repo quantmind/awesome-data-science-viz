@@ -56,6 +56,7 @@ A curated list of data science, analysis and visualization tools with enphasis o
 ## Data
 
 * [Public APIs](https://github.com/toddmotto/public-apis) a collective list of public JSON APIs for use in web development
+* [7 and a quarter hours of largely highway driving](https://github.com/commaai/research) from [comma.ai research](http://comma.ai/)
 
 ## License
 
