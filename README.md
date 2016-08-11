@@ -12,6 +12,7 @@ A curated list of data science, analysis and visualization tools with enphasis o
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Machine Learning](#machine-learning)
 - [Text](#text)
   - [Analysis](#analysis)
   - [Tools](#tools)
@@ -19,6 +20,12 @@ A curated list of data science, analysis and visualization tools with enphasis o
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Machine Learning
+
+* [Theano][] is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
+* [Keras](https://github.com/fchollet/keras) Deep Learning library for [Theano][] and [TensorFlow][]
+
 
 ## Text
 
@@ -39,3 +46,6 @@ A curated list of data science, analysis and visualization tools with enphasis o
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Quantmind](http://quantmind.com) has waived all copyright and related or neighboring rights to this work.
+
+[TensorFlow] https://github.com/tensorflow/tensorflow
+[Theano] https://github.com/Theano/Theano
