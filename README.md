@@ -51,6 +51,7 @@ A curated list of data science, analysis and visualization tools with enphasis o
 
 ## Images
 
+* [tesseract-ocr][] well tested [OCR][] engine written in C++
 * [match](https://github.com/usepavlov/match) makes it easy to search for images that look similar to each other
 
 ## Data
@@ -66,3 +67,5 @@ To the extent possible under law, [Quantmind](http://quantmind.com) has waived a
 
 [TensorFlow]: https://github.com/tensorflow/tensorflow
 [Theano]: https://github.com/Theano/Theano
+[tesseract-ocr]: https://github.com/tesseract-ocr/tesseract
+[OCR]: https://en.wikipedia.org/wiki/Optical_character_recognition
