@@ -13,9 +13,12 @@ A curated list of data science, analysis and visualization tools with enphasis o
 
 
 - [Machine Learning](#machine-learning)
+  - [Libraries](#libraries)
+  - [Examples](#examples)
 - [Text](#text)
   - [Analysis](#analysis)
   - [Tools](#tools)
+- [Images](#images)
 - [Data](#data)
 - [License](#license)
 
