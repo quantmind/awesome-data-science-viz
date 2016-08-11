@@ -1,4 +1,4 @@
-# Awesome Data Science Viz
+# Awesome Data Science & Visualization
 
 A curated list of data science, analysis and visualization tools with enphasis on python and web applications.
 
