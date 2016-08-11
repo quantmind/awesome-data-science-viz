@@ -24,6 +24,7 @@ A curated list of data science, analysis and visualization tools with enphasis o
 ## Machine Learning
 
 * [Theano][] is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
+* [TensorFlow][] library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.
 * [Keras](https://github.com/fchollet/keras) Deep Learning library for [Theano][] and [TensorFlow][]
 
 
@@ -47,5 +48,5 @@ A curated list of data science, analysis and visualization tools with enphasis o
 
 To the extent possible under law, [Quantmind](http://quantmind.com) has waived all copyright and related or neighboring rights to this work.
 
-[TensorFlow] https://github.com/tensorflow/tensorflow
-[Theano] https://github.com/Theano/Theano
+[TensorFlow]: https://github.com/tensorflow/tensorflow
+[Theano]: https://github.com/Theano/Theano
