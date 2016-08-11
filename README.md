@@ -14,3 +14,7 @@ A curated list of data science, analysis and visualization tools with enphasis o
 ### Tools
 
 * [inflect.py](https://github.com/pwdyson/inflect.py) Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
+
+## Data
+
+* [Public APIs](https://github.com/toddmotto/public-apis) a collective list of public JSON APIs for use in web development
