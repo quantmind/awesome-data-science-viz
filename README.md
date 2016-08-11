@@ -85,6 +85,7 @@ A curated list of data science, analysis and visualization tools with enphasis o
 
 ### Libraries
 
+* [dc.js](https://github.com/dc-js/dc.js) Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 * [Chart.js](https://github.com/chartjs/Chart.js) HTML5 Charts using the <canvas> tag
 
 ## License
