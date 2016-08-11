@@ -43,6 +43,7 @@ A curated list of data science, analysis and visualization tools with enphasis o
 
 ### Analysis
 
+* [fastText](https://github.com/facebookresearch/fastText) a C++ library for sentence classification
 * [simhash](https://github.com/leonsim/simhash) a python implementation of [Simhash Algorithm](http://www.wwwconference.org/www2007/papers/paper215.pdf) for detecting near-duplicate web documents
 
 ### Tools
