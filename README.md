@@ -4,6 +4,8 @@ A curated list of data science, analysis and visualization tools with enphasis o
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+* [Contributing](https://github.com/quantmind/awesome-data-science-viz/blob/master/contributing.md)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
