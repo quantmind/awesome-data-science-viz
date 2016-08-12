@@ -1,7 +1,7 @@
 # [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Data Science & Visualization
 
 
-A curated list of data science, analysis and visualization tools with enphasis on python, d3 and web applications.
+A curated list of data science, analysis and visualization tools with emphasis on [python][], [d3][] and web applications.
 
 * [Contributing](https://github.com/quantmind/awesome-data-science-viz/blob/master/contributing.md)
 
@@ -22,8 +22,12 @@ A curated list of data science, analysis and visualization tools with enphasis o
 - [Data](#data)
   - [Sources](#sources)
   - [Aggregators](#aggregators)
+  - [Explore](#explore)
+  - [Storage](#storage)
 - [Visualization](#visualization)
+  - [Resources](#resources-1)
   - [Libraries](#libraries-1)
+- [Python](#python)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -85,6 +89,14 @@ A curated list of data science, analysis and visualization tools with enphasis o
 
 * [pyspider](https://github.com/binux/pyspider) a web crawler system in python
 
+### Explore
+
+* [Crossfilter](https://github.com/square/crossfilter) is a JavaScript library for exploring large multivariate datasets in the browser.
+
+### Storage
+
+* [pytables](https://github.com/PyTables/PyTables) a package for managing hierarchical datasets and designed to efficiently cope with extremely large amounts of data. It is built on top of the HDF5 library and the NumPy package.
+
 
 ## Visualization
 
@@ -113,3 +125,5 @@ To the extent possible under law, [Quantmind](http://quantmind.com) has waived a
 [tesseract-ocr]: https://github.com/tesseract-ocr/tesseract
 [OCR]: https://en.wikipedia.org/wiki/Optical_character_recognition
 [NLP]: https://en.wikipedia.org/wiki/Natural_language_processing
+[python]: https://www.python.org/
+[d3]: https://github.com/d3
