@@ -27,8 +27,9 @@ A curated list of data science, analysis and visualization tools with emphasis o
 - [Visualization](#visualization)
   - [Resources](#resources-1)
   - [Libraries](#libraries-1)
-- [Python](#python)
-- [JavaScript](#javascript)
+- [Languages](#languages)
+  - [Python](#python)
+  - [JavaScript](#javascript)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -48,6 +49,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
 * [TensorFlow][] library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.
 * [Keras](https://github.com/fchollet/keras) Deep Learning library for [Theano][] and [TensorFlow][]
 * [Caffe](https://github.com/BVLC/caffe) deep learning framework made with expression, speed, and modularity in mind. Written in C++ and has python bindings.
+* [Torch](https://github.com/torch/torch7) provides several tools for fast tensor mathematics, storage interfaces and machine learning models. Written in C with Lua interface. 
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. Writtent in C++ with bindings for python and other languages.
 * [Scikit Learn](https://github.com/scikit-learn/scikit-learn) is a Python module for machine learning built on top of [SciPy](https://www.scipy.org/)
 * [CNTK](https://github.com/Microsoft/CNTK) computational network toolkit. A C++ library by Microsoft Research.
@@ -113,11 +115,13 @@ A curated list of data science, analysis and visualization tools with emphasis o
 * [dc.js](https://github.com/dc-js/dc.js) Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 * [Chart.js](https://github.com/chartjs/Chart.js) HTML5 Charts using the <canvas> tag
 
-## Python
+## Languages
+
+### Python
 
 * [Awesome Python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources.
 
-## JavaScript
+### JavaScript
 
 * [Computer science in javascript](https://github.com/nzakas/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
 
