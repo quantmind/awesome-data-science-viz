@@ -34,6 +34,8 @@ A curated list of data science, analysis and visualization tools with enphasis o
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) comprehensive list of machine learning resources
 * [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning) collections of links and notebooks for a gentle introduction to machine learning
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python
+* [Data science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 ### Libraries
 
@@ -42,9 +44,11 @@ A curated list of data science, analysis and visualization tools with enphasis o
 * [Keras](https://github.com/fchollet/keras) Deep Learning library for [Theano][] and [TensorFlow][]
 * [Caffe](https://github.com/BVLC/caffe) deep learning framework made with expression, speed, and modularity in mind. Written in C++ and has python bindings.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. Writtent in C++ with bindings for python and other languages.
+* [Scikit Learn](https://github.com/scikit-learn/scikit-learn) is a Python module for machine learning built on top of [SciPy](https://www.scipy.org/)
 * [CNTK](https://github.com/Microsoft/CNTK) computational network toolkit. A C++ library by Microsoft Research.
 * [OpenNN](https://github.com/Artelnics/OpenNN) a neural network C++ library
 * [XGboost](https://github.com/dmlc/xgboost) an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. Written in C++ with python integration.
+* [Gym](https://github.com/openai/gym) A toolkit for developing and comparing reinforcement learning algorithms. Written in Python.
 
 ### Examples
 
@@ -56,6 +60,7 @@ A curated list of data science, analysis and visualization tools with enphasis o
 ### Analysis
 
 * [fastText](https://github.com/facebookresearch/fastText) a C++ library for sentence classification
+* [TextBlob](https://github.com/sloria/TextBlob) is a python library for processing textual data. It provides a simple API for diving into common [NLP][] tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
 * [simhash](https://github.com/leonsim/simhash) a python implementation of [Simhash Algorithm](http://www.wwwconference.org/www2007/papers/paper215.pdf) for detecting near-duplicate web documents
 
 ### Tools
@@ -65,7 +70,8 @@ A curated list of data science, analysis and visualization tools with enphasis o
 ## Images
 
 * [tesseract-ocr][] well tested [OCR][] engine written in C++
-* [OpenCV](https://github.com/opencv/opencv) computer vision and machine learning software library. The library has more than 2500 optimized algorithms, which includes a comprehensive set of both classic and state-of-the-art computer vision and machine learning algorithms. These algorithms can be used to detect and recognize faces, identify objects, classify human actions in videos, track camera movements, track moving objects, extract 3D models of objects, produce 3D point clouds from stereo cameras, stitch images together to produce a high resolution image of an entire scene, find similar images from an image database, remove red eyes from images taken using flash, follow eye movements, recognize scenery and establish markers to overlay it with augmented reality, etc. Written in C++ with bindins for most languages including python.
+* [OpenCV][] computer vision and machine learning software library. The library has more than 2500 optimized algorithms, which includes a comprehensive set of both classic and state-of-the-art computer vision and machine learning algorithms. These algorithms can be used to detect and recognize faces, identify objects, classify human actions in videos, track camera movements, track moving objects, extract 3D models of objects, produce 3D point clouds from stereo cameras, stitch images together to produce a high resolution image of an entire scene, find similar images from an image database, remove red eyes from images taken using flash, follow eye movements, recognize scenery and establish markers to overlay it with augmented reality, etc. Written in C++ with bindins for most languages including python.
+* [SimpleCV](https://github.com/sightmachine/SimpleCV) is a framework for machine vision, using [OpenCV][] and Python. It provides a concise, readable interface for cameras, image manipulation, feature extraction, and format conversion.
 * [match](https://github.com/usepavlov/match) makes it easy to search for images that look similar to each other
 
 ## Data
@@ -91,6 +97,10 @@ A curated list of data science, analysis and visualization tools with enphasis o
 * [dc.js](https://github.com/dc-js/dc.js) Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 * [Chart.js](https://github.com/chartjs/Chart.js) HTML5 Charts using the <canvas> tag
 
+## Python
+
+* [Awesome Python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -99,5 +109,7 @@ To the extent possible under law, [Quantmind](http://quantmind.com) has waived a
 
 [TensorFlow]: https://github.com/tensorflow/tensorflow
 [Theano]: https://github.com/Theano/Theano
+[OpenCV]: https://github.com/opencv/opencv
 [tesseract-ocr]: https://github.com/tesseract-ocr/tesseract
 [OCR]: https://en.wikipedia.org/wiki/Optical_character_recognition
+[NLP]: https://en.wikipedia.org/wiki/Natural_language_processing
