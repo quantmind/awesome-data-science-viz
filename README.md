@@ -65,6 +65,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 ### Analysis
 
+* [Natural Language Toolkit](https://github.com/nltk/nltk) (NLTK) is a suite of python modules, data sets and tutorials supporting research and development in [NLP][]. Some of its modules are out of date but still a useful resource nonetheless.
 * [fastText](https://github.com/facebookresearch/fastText) a C++ library for sentence classification
 * [TextBlob](https://github.com/sloria/TextBlob) is a python library for processing textual data. It provides a simple API for diving into common [NLP][] tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
 * [simhash](https://github.com/leonsim/simhash) a python implementation of [Simhash Algorithm](http://www.wwwconference.org/www2007/papers/paper215.pdf) for detecting near-duplicate web documents
