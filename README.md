@@ -28,6 +28,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
   - [Resources](#resources-1)
   - [Libraries](#libraries-1)
 - [Python](#python)
+- [JavaScript](#javascript)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -53,6 +54,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
 * [OpenNN](https://github.com/Artelnics/OpenNN) a neural network C++ library
 * [XGboost](https://github.com/dmlc/xgboost) an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. Written in C++ with python integration.
 * [Gym](https://github.com/openai/gym) A toolkit for developing and comparing reinforcement learning algorithms. Written in Python.
+* [Tpot](https://github.com/rhiever/tpot) is a python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
 
 ### Examples
 
@@ -87,7 +89,8 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 ### Aggregators
 
-* [pyspider](https://github.com/binux/pyspider) a web crawler system in python
+* [pyspider](https://github.com/binux/pyspider) a web crawler system in python.
+* [Newspaper](https://github.com/codelucas/newspaper) News, full-text, and article metadata extraction in Python 3.
 
 ### Explore
 
@@ -112,6 +115,10 @@ A curated list of data science, analysis and visualization tools with emphasis o
 ## Python
 
 * [Awesome Python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources.
+
+## JavaScript
+
+* [Computer science in javascript](https://github.com/nzakas/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
 
 ## License
 
