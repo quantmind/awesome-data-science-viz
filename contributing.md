@@ -5,7 +5,7 @@
 * Python 3 only
 * Modern Javascript visualization tools :thumbsup:
 * C/C++ libraries with python interface :thumbsup:
-* The pull request should have a useful title.
+* A pull request should have a useful title.
 * Before creating a pull request you need to run [doctoc](https://github.com/thlorenz/doctoc) in order to update the table of contents.
 ```
 doctoc README.md
