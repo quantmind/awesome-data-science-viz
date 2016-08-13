@@ -123,6 +123,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 ### JavaScript
 
+* [Simple Statistics](http://simplestatistics.org/) statistical methods in readable JavaScript for browsers, servers.
 * [Computer science in javascript](https://github.com/nzakas/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
 
 ## License
