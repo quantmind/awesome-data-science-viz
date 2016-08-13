@@ -120,6 +120,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
 ### Python
 
 * [Awesome Python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources.
+* [Interactive coding challenges](https://github.com/donnemartin/interactive-coding-challenges) which focus on algorithms and data structures that are typically found in coding interviews
 
 ### JavaScript
 
