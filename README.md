@@ -101,7 +101,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 ### Storage
 
-* [pytables](https://github.com/PyTables/PyTables) a package for managing hierarchical datasets and designed to efficiently cope with extremely large amounts of data. It is built on top of the HDF5 library and the NumPy package.
+* [pytables](https://github.com/PyTables/PyTables) a package for managing hierarchical datasets and designed to efficiently cope with extremely large amounts of data. It is built on top of the [HDF5][] library and the NumPy package.
 
 
 ## Visualization
@@ -133,11 +133,12 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 To the extent possible under law, [Quantmind](http://quantmind.com) has waived all copyright and related or neighboring rights to this work.
 
+[d3]: https://github.com/d3
+[HDF5]: https://www.hdfgroup.org/HDF5/
+[NLP]: https://en.wikipedia.org/wiki/Natural_language_processing
+[OCR]: https://en.wikipedia.org/wiki/Optical_character_recognition
+[OpenCV]: https://github.com/opencv/opencv
+[python]: https://www.python.org/
 [TensorFlow]: https://github.com/tensorflow/tensorflow
 [Theano]: https://github.com/Theano/Theano
-[OpenCV]: https://github.com/opencv/opencv
 [tesseract-ocr]: https://github.com/tesseract-ocr/tesseract
-[OCR]: https://en.wikipedia.org/wiki/Optical_character_recognition
-[NLP]: https://en.wikipedia.org/wiki/Natural_language_processing
-[python]: https://www.python.org/
-[d3]: https://github.com/d3
