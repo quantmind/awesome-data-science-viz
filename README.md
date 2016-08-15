@@ -71,6 +71,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
 * [fastText](https://github.com/facebookresearch/fastText) a C++ library for sentence classification
 * [TextBlob](https://github.com/sloria/TextBlob) is a python library for processing textual data. It provides a simple API for diving into common [NLP][] tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
 * [simhash](https://github.com/leonsim/simhash) a python implementation of [Simhash Algorithm](http://www.wwwconference.org/www2007/papers/paper215.pdf) for detecting near-duplicate web documents
+* [langdetect](https://github.com/Mimino666/langdetect) is a port of Google's language-detection library to Python.
 
 ### Tools
 
