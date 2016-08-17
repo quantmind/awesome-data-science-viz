@@ -57,6 +57,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
 * [XGboost](https://github.com/dmlc/xgboost) an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. Written in C++ with python integration.
 * [Gym](https://github.com/openai/gym) A toolkit for developing and comparing reinforcement learning algorithms. Written in Python.
 * [Tpot](https://github.com/rhiever/tpot) is a python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
+* [TFLearn](https://github.com/tflearn/tflearn) is a deep learning library featuring a higher-level API for [TensorFlow][].
 
 ### Examples
 
