@@ -40,6 +40,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) comprehensive list of machine learning resources
 * [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning) collections of links and notebooks for a gentle introduction to machine learning
+* [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) is a list of popular github projects related to deep learning (ranked by stars)
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python
 * [Data science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
