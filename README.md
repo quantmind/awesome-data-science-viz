@@ -90,6 +90,8 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 ### Sources
 
+* [Quandl](https://www.quandl.com/) delivers free and premium financial, economic, and alternative data from hundreds of sources
+via their website, API, or directly into dozens of tools
 * [Public APIs](https://github.com/toddmotto/public-apis) a collective list of public JSON APIs for use in web development
 * [7 and a quarter hours of largely highway driving](https://github.com/commaai/research) from [comma.ai research](http://comma.ai/)
 
