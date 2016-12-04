@@ -82,6 +82,8 @@ A curated list of data science, analysis and visualization tools with emphasis o
 * [OpenCV][] computer vision and machine learning software library. The library has more than 2500 optimized algorithms, which includes a comprehensive set of both classic and state-of-the-art computer vision and machine learning algorithms. These algorithms can be used to detect and recognize faces, identify objects, classify human actions in videos, track camera movements, track moving objects, extract 3D models of objects, produce 3D point clouds from stereo cameras, stitch images together to produce a high resolution image of an entire scene, find similar images from an image database, remove red eyes from images taken using flash, follow eye movements, recognize scenery and establish markers to overlay it with augmented reality, etc. Written in C++ with bindins for most languages including python.
 * [SimpleCV](https://github.com/sightmachine/SimpleCV) is a framework for machine vision, using [OpenCV][] and Python. It provides a concise, readable interface for cameras, image manipulation, feature extraction, and format conversion.
 * [match](https://github.com/usepavlov/match) makes it easy to search for images that look similar to each other
+* [Noteshrink](https://github.com/mzucker/noteshrink) Convert scans of handwritten notes to beautiful, compact PDFs
+* [srez](https://github.com/david-gpu/srez) Image super-resolution through deep learning
 
 ## Data
 
