@@ -40,6 +40,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) comprehensive list of machine learning resources
 * [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning) collections of links and notebooks for a gentle introduction to machine learning
+* [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) is a list of popular github projects related to deep learning (ranked by stars)
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python
 * [Data science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
@@ -57,20 +58,23 @@ A curated list of data science, analysis and visualization tools with emphasis o
 * [XGboost](https://github.com/dmlc/xgboost) an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. Written in C++ with python integration.
 * [Gym](https://github.com/openai/gym) A toolkit for developing and comparing reinforcement learning algorithms. Written in Python.
 * [Tpot](https://github.com/rhiever/tpot) is a python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
+* [TFLearn](https://github.com/tflearn/tflearn) is a deep learning library featuring a higher-level API for [TensorFlow][].
 
 ### Examples
 
 * [AIMA python](https://github.com/aimacode/aima-python) Python code for the book [Artificial Intelligence: A Modern Approach](https://www.amazon.co.uk/Artificial-Intelligence-Approach-Stuart-Russell/dp/1292153962)
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) a [TensorFlow][] tutorial with popular machine learning algorithms implementation
 
-## Text
+## NLP
 
 ### Analysis
 
 * [Natural Language Toolkit](https://github.com/nltk/nltk) (NLTK) is a suite of python modules, data sets and tutorials supporting research and development in [NLP][]. Some of its modules are out of date but still a useful resource nonetheless.
+* [SpaCy](https://github.com/spacy-io/spaCy) is a powerful, production ready, NLP library for python
 * [fastText](https://github.com/facebookresearch/fastText) a C++ library for sentence classification
 * [TextBlob](https://github.com/sloria/TextBlob) is a python library for processing textual data. It provides a simple API for diving into common [NLP][] tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
 * [simhash](https://github.com/leonsim/simhash) a python implementation of [Simhash Algorithm](http://www.wwwconference.org/www2007/papers/paper215.pdf) for detecting near-duplicate web documents
+* [langdetect](https://github.com/Mimino666/langdetect) is a port of Google's language-detection library to Python.
 
 ### Tools
 
@@ -89,6 +93,8 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 ### Sources
 
+* [Quandl](https://www.quandl.com/) delivers free and premium financial, economic, and alternative data from hundreds of sources
+via their website, API, or directly into dozens of tools
 * [Public APIs](https://github.com/toddmotto/public-apis) a collective list of public JSON APIs for use in web development
 * [7 and a quarter hours of largely highway driving](https://github.com/commaai/research) from [comma.ai research](http://comma.ai/)
 
@@ -103,7 +109,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 ### Storage
 
-* [pytables](https://github.com/PyTables/PyTables) a package for managing hierarchical datasets and designed to efficiently cope with extremely large amounts of data. It is built on top of the HDF5 library and the NumPy package.
+* [pytables](https://github.com/PyTables/PyTables) a package for managing hierarchical datasets and designed to efficiently cope with extremely large amounts of data. It is built on top of the [HDF5][] library and the NumPy package.
 
 
 ## Visualization
@@ -122,9 +128,11 @@ A curated list of data science, analysis and visualization tools with emphasis o
 ### Python
 
 * [Awesome Python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources.
+* [Interactive coding challenges](https://github.com/donnemartin/interactive-coding-challenges) which focus on algorithms and data structures that are typically found in coding interviews
 
 ### JavaScript
 
+* [Simple Statistics](http://simplestatistics.org/) statistical methods in readable JavaScript for browsers, servers.
 * [Computer science in javascript](https://github.com/nzakas/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
 
 ## License
@@ -133,11 +141,12 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 To the extent possible under law, [Quantmind](http://quantmind.com) has waived all copyright and related or neighboring rights to this work.
 
+[d3]: https://github.com/d3
+[HDF5]: https://www.hdfgroup.org/HDF5/
+[NLP]: https://en.wikipedia.org/wiki/Natural_language_processing
+[OCR]: https://en.wikipedia.org/wiki/Optical_character_recognition
+[OpenCV]: https://github.com/opencv/opencv
+[python]: https://www.python.org/
 [TensorFlow]: https://github.com/tensorflow/tensorflow
 [Theano]: https://github.com/Theano/Theano
-[OpenCV]: https://github.com/opencv/opencv
 [tesseract-ocr]: https://github.com/tesseract-ocr/tesseract
-[OCR]: https://en.wikipedia.org/wiki/Optical_character_recognition
-[NLP]: https://en.wikipedia.org/wiki/Natural_language_processing
-[python]: https://www.python.org/
-[d3]: https://github.com/d3
