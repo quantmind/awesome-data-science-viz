@@ -123,6 +123,10 @@ via their website, API, or directly into dozens of tools
 * [dc.js](https://github.com/dc-js/dc.js) Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 * [Chart.js](https://github.com/chartjs/Chart.js) HTML5 Charts using the <canvas> tag
 
+### d3 plugins
+
+* [d3-waffle](http://jbkunst.github.io/d3-waffle/) waffle plots with d3
+
 ## Languages
 
 ### Python
