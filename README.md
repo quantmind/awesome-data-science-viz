@@ -1,4 +1,4 @@
-# [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Data Science & Visualization
+# Data Science & Visualization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 A curated list of data science, analysis and visualization tools with emphasis on [python][], [d3][] and web applications.
@@ -48,12 +48,12 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 * [Theano][] is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
 * [TensorFlow][] library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.
-* [Keras](https://github.com/fchollet/keras) Deep Learning library for [Theano][] and [TensorFlow][]
+* [Keras](https://github.com/fchollet/keras) Deep Learning library for [Theano][], [TensorFlow][] and [CNTK][].
 * [Caffe](https://github.com/BVLC/caffe) deep learning framework made with expression, speed, and modularity in mind. Written in C++ and has python bindings.
-* [Torch](https://github.com/torch/torch7) provides several tools for fast tensor mathematics, storage interfaces and machine learning models. Written in C with Lua interface. 
+* [Torch](https://github.com/torch/torch7) provides several tools for fast tensor mathematics, storage interfaces and machine learning models. Written in C with Lua interface.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. Writtent in C++ with bindings for python and other languages.
 * [Scikit Learn](https://github.com/scikit-learn/scikit-learn) is a Python module for machine learning built on top of [SciPy](https://www.scipy.org/)
-* [CNTK](https://github.com/Microsoft/CNTK) computational network toolkit. A C++ library by Microsoft Research.
+* [CNTK][] computational network toolkit. A C++ library by Microsoft Research.
 * [OpenNN](https://github.com/Artelnics/OpenNN) a neural network C++ library
 * [XGboost](https://github.com/dmlc/xgboost) an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. Written in C++ with python integration.
 * [Gym](https://github.com/openai/gym) A toolkit for developing and comparing reinforcement learning algorithms. Written in Python.
@@ -150,3 +150,4 @@ To the extent possible under law, [Quantmind](http://quantmind.com) has waived a
 [TensorFlow]: https://github.com/tensorflow/tensorflow
 [Theano]: https://github.com/Theano/Theano
 [tesseract-ocr]: https://github.com/tesseract-ocr/tesseract
+[CNTK]: https://github.com/Microsoft/CNTK
