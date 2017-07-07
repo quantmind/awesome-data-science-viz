@@ -50,6 +50,7 @@ A curated list of data science, analysis and visualization tools with emphasis o
 * [Theano][] is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
 * [TensorFlow][] library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.
 * [Keras](https://github.com/fchollet/keras) Deep Learning library for [Theano][], [TensorFlow][] and [CNTK][].
+* [Keras-rl](https://github.com/matthiasplappert/keras-rl) Deep Reinforcement Learning for Keras.
 * [Caffe](https://github.com/BVLC/caffe) deep learning framework made with expression, speed, and modularity in mind. Written in C++ and has python bindings.
 * [Torch](https://github.com/torch/torch7) provides several tools for fast tensor mathematics, storage interfaces and machine learning models. Written in C with Lua interface.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. Writtent in C++ with bindings for python and other languages.
