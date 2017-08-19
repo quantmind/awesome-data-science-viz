@@ -1,9 +1,10 @@
 # Data Science & Visualization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-A curated list of data science, analysis and visualization tools with emphasis on [python][], [d3][] and web applications.
+A curated list of data science, machine learning and visualization tools with
+emphasis on [python][], [d3][] and web applications.
 
-* [Contributing](https://github.com/quantmind/awesome-data-science-viz/blob/master/contributing.md)
+[CONTRIBUTING](https://github.com/quantmind/awesome-data-science-viz/blob/master/contributing.md)
 
 ## Contents
 
@@ -13,21 +14,26 @@ A curated list of data science, analysis and visualization tools with emphasis o
 
 - [Machine Learning](#machine-learning)
   - [Resources](#resources)
-  - [Libraries](#libraries)
+  - [Frameworks](#frameworks)
+  - [Neural networks](#neural-networks)
+  - [Reinforcement Learning](#reinforcement-learning)
   - [Examples](#examples)
 - [NLP](#nlp)
   - [Analysis](#analysis)
   - [Tools](#tools)
 - [Images](#images)
+  - [Resources](#resources-1)
+  - [Frameworks](#frameworks-1)
 - [Data](#data)
   - [Sources](#sources)
   - [Aggregators](#aggregators)
   - [Explore](#explore)
   - [Storage](#storage)
 - [Visualization](#visualization)
-  - [Resources](#resources-1)
-  - [Libraries](#libraries-1)
+  - [Resources](#resources-2)
+  - [Libraries](#libraries)
   - [d3 plugins](#d3-plugins)
+  - [Digital Art](#digital-art)
 - [Languages](#languages)
   - [Python](#python)
   - [JavaScript](#javascript)
@@ -45,21 +51,28 @@ A curated list of data science, analysis and visualization tools with emphasis o
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python
 * [Data science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
-### Libraries
-
+### Frameworks
 * [Theano][] is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
 * [TensorFlow][] library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.
 * [Keras](https://github.com/fchollet/keras) Deep Learning library for [Theano][], [TensorFlow][] and [CNTK][].
-* [Keras-rl](https://github.com/matthiasplappert/keras-rl) Deep Reinforcement Learning for Keras.
 * [Caffe](https://github.com/BVLC/caffe) deep learning framework made with expression, speed, and modularity in mind. Written in C++ and has python bindings.
 * [Torch](https://github.com/torch/torch7) provides several tools for fast tensor mathematics, storage interfaces and machine learning models. Written in C with Lua interface.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. Writtent in C++ with bindings for python and other languages.
 * [Scikit Learn](https://github.com/scikit-learn/scikit-learn) is a Python module for machine learning built on top of [SciPy](https://www.scipy.org/)
 * [CNTK][] computational network toolkit. A C++ library by Microsoft Research.
-* [OpenNN](https://github.com/Artelnics/OpenNN) a neural network C++ library
 * [XGboost](https://github.com/dmlc/xgboost) an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. Written in C++ with python integration.
-* [Gym](https://github.com/openai/gym) A toolkit for developing and comparing reinforcement learning algorithms. Written in Python.
 * [Tpot](https://github.com/rhiever/tpot) is a python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
+
+### Neural networks
+
+* [Brainforge](https://github.com/csxeba/brainforge) A Neural Networking library based on NumPy only
+* [deeplearn.js](https://pair-code.github.io/deeplearnjs/) a neural network library for the web
+* [OpenNN](https://github.com/Artelnics/OpenNN) a neural network C++ library
+
+### Reinforcement Learning
+
+* [Keras-rl](https://github.com/matthiasplappert/keras-rl) Deep Reinforcement Learning for Keras.
+* [Gym](https://github.com/openai/gym) A toolkit for developing and comparing reinforcement learning algorithms. Written in Python.
 * [TFLearn](https://github.com/tflearn/tflearn) is a deep learning library featuring a higher-level API for [TensorFlow][].
 
 ### Examples
@@ -68,6 +81,9 @@ A curated list of data science, analysis and visualization tools with emphasis o
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) a [TensorFlow][] tutorial with popular machine learning algorithms implementation
 
 ## NLP
+
+Natural Language processing benefits from [Recurrent Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+algorithms.
 
 ### Analysis
 
@@ -83,6 +99,12 @@ A curated list of data science, analysis and visualization tools with emphasis o
 * [inflect.py](https://github.com/pwdyson/inflect.py) Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
 
 ## Images
+
+### Resources
+
+* [Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) In machine learning, a convolutional neural network (CNN, or ConvNet) is a class of deep, feed-forward artificial neural network that have successfully been applied to analyzing visual imagery.
+
+### Frameworks
 
 * [tesseract-ocr][] well tested [OCR][] engine written in C++
 * [OpenCV][] computer vision and machine learning software library. The library has more than 2500 optimized algorithms, which includes a comprehensive set of both classic and state-of-the-art computer vision and machine learning algorithms. These algorithms can be used to detect and recognize faces, identify objects, classify human actions in videos, track camera movements, track moving objects, extract 3D models of objects, produce 3D point clouds from stereo cameras, stitch images together to produce a high resolution image of an entire scene, find similar images from an image database, remove red eyes from images taken using flash, follow eye movements, recognize scenery and establish markers to overlay it with augmented reality, etc. Written in C++ with bindins for most languages including python.
@@ -123,11 +145,15 @@ via their website, API, or directly into dozens of tools
 ### Libraries
 
 * [dc.js](https://github.com/dc-js/dc.js) Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
-* [Chart.js](https://github.com/chartjs/Chart.js) HTML5 Charts using the <canvas> tag
+* [Chart.js](https://github.com/chartjs/Chart.js) HTML5 Charts using the canvas tag
 
 ### d3 plugins
 
 * [d3-waffle](http://jbkunst.github.io/d3-waffle/) waffle plots with d3
+
+### Digital Art
+
+* [Generating Abstract Patterns with TensorFlow](http://blog.otoro.net/2016/03/25/generating-abstract-patterns-with-tensorflow/) Compositional Pattern Producing Network (CPPN)
 
 ## Languages
 
