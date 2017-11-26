@@ -19,10 +19,11 @@ emphasis on [python][], [d3][] and web applications.
   - [Reinforcement Learning](#reinforcement-learning)
   - [Examples](#examples)
 - [NLP](#nlp)
+  - [Resources](#resources-1)
   - [Analysis](#analysis)
   - [Tools](#tools)
 - [Images](#images)
-  - [Resources](#resources-1)
+  - [Resources](#resources-2)
   - [Frameworks](#frameworks-1)
 - [Data](#data)
   - [Sources](#sources)
@@ -30,9 +31,9 @@ emphasis on [python][], [d3][] and web applications.
   - [Explore](#explore)
   - [Storage](#storage)
 - [Visualization](#visualization)
-  - [Resources](#resources-2)
+  - [Resources](#resources-3)
   - [Libraries](#libraries)
-  - [d3 plugins](#d3-plugins)
+  - [D3 based libraries](#d3-based-libraries)
   - [Digital Art](#digital-art)
 - [Languages](#languages)
   - [Python](#python)
@@ -50,6 +51,8 @@ emphasis on [python][], [d3][] and web applications.
 * [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) is a list of popular github projects related to deep learning (ranked by stars)
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python
 * [Data science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+* [Python data-science handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 ### Frameworks
 * [Theano][] is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
@@ -74,6 +77,7 @@ emphasis on [python][], [d3][] and web applications.
 * [Keras-rl](https://github.com/matthiasplappert/keras-rl) Deep Reinforcement Learning for Keras.
 * [Gym](https://github.com/openai/gym) A toolkit for developing and comparing reinforcement learning algorithms. Written in Python.
 * [TFLearn](https://github.com/tflearn/tflearn) is a deep learning library featuring a higher-level API for [TensorFlow][].
+* [Tensorforce](https://github.com/reinforceio/tensorforce) a TensorFlow library for applied reinforcement learning
 
 ### Examples
 
@@ -84,6 +88,10 @@ emphasis on [python][], [d3][] and web applications.
 
 Natural Language processing benefits from [Recurrent Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 algorithms.
+
+### Resources
+
+* [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures) lecture slides and course description for the Deep Natural Language Processing course
 
 ### Analysis
 
@@ -112,6 +120,7 @@ algorithms.
 * [match](https://github.com/usepavlov/match) makes it easy to search for images that look similar to each other
 * [Noteshrink](https://github.com/mzucker/noteshrink) Convert scans of handwritten notes to beautiful, compact PDFs
 * [srez](https://github.com/david-gpu/srez) Image super-resolution through deep learning
+* [CovNetJS](https://github.com/karpathy/convnetjs) train Convolutional Neural Networks (or ordinary ones) in the browser
 
 ## Data
 
@@ -144,12 +153,17 @@ via their website, API, or directly into dozens of tools
 
 ### Libraries
 
-* [dc.js](https://github.com/dc-js/dc.js) Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 * [Chart.js](https://github.com/chartjs/Chart.js) HTML5 Charts using the canvas tag
+* [G2](https://github.com/antvis/g2) is a visualization grammar, a data-driven visual language with a high level of usability and scalability
+* [frappe/charts](https://github.com/frappe/charts) Simple, responsive, modern SVG Charts with zero dependencies
 
-### d3 plugins
-
+### D3 based libraries
+* [brite Charts](https://github.com/eventbrite/britecharts) reusable Charting Library based on D3.js v4 by https://www.eventbrite.co.uk/
+* [dc.js](https://github.com/dc-js/dc.js) Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
+* [d3-visualize](https://github.com/quantmind/d3-visualize) is a [d3-view](https://github.com/quantmind/d3-view) based reactive data-visualization library - alpha
 * [d3-waffle](http://jbkunst.github.io/d3-waffle/) waffle plots with d3
+* [semiotic](https://github.com/emeeks/semiotic) a data visualization framework combining React & D3
+* [tau Charts](https://github.com/TargetProcess/tauCharts)
 
 ### Digital Art
 
