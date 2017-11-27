@@ -149,6 +149,7 @@ via their website, API, or directly into dozens of tools
 
 ### Resources
 
+* [The visualization universe](http://visualizationuniverse.com/)
 * [Awesome D3](https://github.com/wbkd/awesome-d3)
 
 ### Libraries
