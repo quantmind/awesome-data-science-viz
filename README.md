@@ -32,7 +32,8 @@ emphasis on [python][], [d3][] and web applications.
   - [Storage](#storage)
 - [Visualization](#visualization)
   - [Resources](#resources-3)
-  - [Libraries](#libraries)
+  - [Javascript Libraries](#javascript-libraries)
+  - [Python Libraries](#python-libraries)
   - [D3 based libraries](#d3-based-libraries)
   - [Digital Art](#digital-art)
 - [Languages](#languages)
@@ -60,6 +61,7 @@ emphasis on [python][], [d3][] and web applications.
 * [Keras](https://github.com/fchollet/keras) Deep Learning library for [Theano][], [TensorFlow][] and [CNTK][].
 * [Caffe](https://github.com/BVLC/caffe) deep learning framework made with expression, speed, and modularity in mind. Written in C++ and has python bindings.
 * [Torch](https://github.com/torch/torch7) provides several tools for fast tensor mathematics, storage interfaces and machine learning models. Written in C with Lua interface.
+* [PyTorch](https://pytorch.org/) tensors and dynamic neural networks in Python with strong GPU acceleration
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit) is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. Writtent in C++ with bindings for python and other languages.
 * [Scikit Learn](https://github.com/scikit-learn/scikit-learn) is a Python module for machine learning built on top of [SciPy](https://www.scipy.org/)
 * [CNTK][] computational network toolkit. A C++ library by Microsoft Research.
@@ -152,11 +154,20 @@ via their website, API, or directly into dozens of tools
 * [The visualization universe](http://visualizationuniverse.com/)
 * [Awesome D3](https://github.com/wbkd/awesome-d3)
 
-### Libraries
+### Javascript Libraries
 
 * [Chart.js](https://github.com/chartjs/Chart.js) HTML5 Charts using the canvas tag
 * [G2](https://github.com/antvis/g2) is a visualization grammar, a data-driven visual language with a high level of usability and scalability
+* [plotly.js](https://github.com/plotly/plotly.js) charting library built on top of [d3][] and [stack.gl](http://stack.gl/)
 * [frappe/charts](https://github.com/frappe/charts) Simple, responsive, modern SVG Charts with zero dependencies
+
+### Python Libraries
+
+* [bokeh](https://bokeh.pydata.org/en/latest/) an interactive visualization library that targets modern web browsers for presentation
+* [bqplot](https://github.com/bloomberg/bqplot) plotting library for IPython/Jupyter notebooks - front-end in [d3][]
+* [dash](https://github.com/plotly/dash/) Dash is a Python framework for building analytical web applications
+* [Altair](https://altair-viz.github.io/) declarative statistical visualization library for Python, based on Vega and Vega-Lite
+
 
 ### D3 based libraries
 * [brite Charts](https://github.com/eventbrite/britecharts) reusable Charting Library based on D3.js v4 by https://www.eventbrite.co.uk/
@@ -165,6 +176,8 @@ via their website, API, or directly into dozens of tools
 * [d3-waffle](http://jbkunst.github.io/d3-waffle/) waffle plots with d3
 * [semiotic](https://github.com/emeeks/semiotic) a data visualization framework combining React & D3
 * [tau Charts](https://github.com/TargetProcess/tauCharts)
+* [Vega](https://vega.github.io/vega/) visualization grammar
+* [Vega-lite](https://vega.github.io/vega-lite/) high-level grammar of interactive graphics
 
 ### Digital Art
 
