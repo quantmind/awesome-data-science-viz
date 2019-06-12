@@ -160,6 +160,7 @@ via their website, API, or directly into dozens of tools
 * [G2](https://github.com/antvis/g2) is a visualization grammar, a data-driven visual language with a high level of usability and scalability
 * [plotly.js](https://github.com/plotly/plotly.js) charting library built on top of [d3][] and [stack.gl](http://stack.gl/)
 * [frappe/charts](https://github.com/frappe/charts) Simple, responsive, modern SVG Charts with zero dependencies
+* [ZingChart](https://github.com/zingchart/ZingChart) Powerful Javascript library with 35+ different chart types
 
 ### Python Libraries
 
