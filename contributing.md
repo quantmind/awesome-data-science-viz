@@ -2,7 +2,7 @@
 
 * This list is about **data science** including **aggregation**, **storage**, **analysis** and **visualization**
 * It is geared towards the **python** programming language and **web applications**
-* Opensource Only
+* Opensource only
 * Python 3 only
 * Modern Javascript ([es6](https://github.com/lukehoban/es6features)) visualization tools :thumbsup:
 * C/C++ libraries with python/lua bindings :thumbsup:
