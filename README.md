@@ -32,7 +32,7 @@ emphasis on [python][], [d3][] and web applications.
   - [Storage](#storage)
 - [Visualization](#visualization)
   - [Resources](#resources-3)
-  - [Javascript Libraries](#javascript-libraries)
+  - [JavaScript Libraries](#javascript-libraries)
   - [Python Libraries](#python-libraries)
   - [D3 based libraries](#d3-based-libraries)
   - [Digital Art](#digital-art)
@@ -151,15 +151,17 @@ via their website, API, or directly into dozens of tools
 
 ### Resources
 
-* [The visualization universe](http://visualizationuniverse.com/)
+* [Visualization Universe](http://visualizationuniverse.com/)
 * [Awesome D3](https://github.com/wbkd/awesome-d3)
+* [Comparison of JavaScript charting libraries](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_charting_libraries)
 
-### Javascript Libraries
+### JavaScript Libraries
 
 * [Chart.js](https://github.com/chartjs/Chart.js) HTML5 Charts using the canvas tag
 * [G2](https://github.com/antvis/g2) is a visualization grammar, a data-driven visual language with a high level of usability and scalability
 * [plotly.js](https://github.com/plotly/plotly.js) charting library built on top of [d3][] and [stack.gl](http://stack.gl/)
 * [frappe/charts](https://github.com/frappe/charts) Simple, responsive, modern SVG Charts with zero dependencies
+* [GraphicsJS](https://github.com/AnyChart/GraphicsJS) A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
 
 ### Python Libraries
 
@@ -168,9 +170,9 @@ via their website, API, or directly into dozens of tools
 * [dash](https://github.com/plotly/dash/) Dash is a Python framework for building analytical web applications
 * [Altair](https://altair-viz.github.io/) declarative statistical visualization library for Python, based on Vega and Vega-Lite
 
-
 ### D3 based libraries
 * [brite Charts](https://github.com/eventbrite/britecharts) reusable Charting Library based on D3.js v4 by https://www.eventbrite.co.uk/
+* [C3.js](https://github.com/c3js/c3) D3-based reusable chart library
 * [dc.js](https://github.com/dc-js/dc.js) Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 * [d3-visualize](https://github.com/quantmind/d3-visualize) is a [d3-view](https://github.com/quantmind/d3-view) based reactive data-visualization library - alpha
 * [d3-waffle](http://jbkunst.github.io/d3-waffle/) waffle plots with d3
@@ -193,7 +195,7 @@ via their website, API, or directly into dozens of tools
 ### JavaScript
 
 * [Simple Statistics](http://simplestatistics.org/) statistical methods in readable JavaScript for browsers, servers.
-* [Computer science in javascript](https://github.com/nzakas/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
+* [Computer science in JavaScript](https://github.com/nzakas/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
 
 ## License
 
