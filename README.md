@@ -19,9 +19,9 @@ emphasis on [python][], [d3][] and web applications.
   - [Reinforcement Learning](#reinforcement-learning)
   - [Examples](#examples)
 - [NLP](#nlp)
-  - [Resources](#resources-1)
   - [Analysis](#analysis)
   - [Tools](#tools)
+  - [Resources](#resources-1)
 - [Images](#images)
   - [Resources](#resources-2)
   - [Frameworks](#frameworks-1)
@@ -91,12 +91,9 @@ emphasis on [python][], [d3][] and web applications.
 Natural Language processing benefits from [Recurrent Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 algorithms.
 
-### Resources
-
-* [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures) lecture slides and course description for the Deep Natural Language Processing course
-
 ### Analysis
 
+* [huggingface/transformers](https://github.com/huggingface/transformers) State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0
 * [Natural Language Toolkit](https://github.com/nltk/nltk) (NLTK) is a suite of python modules, data sets and tutorials supporting research and development in [NLP][]. Some of its modules are out of date but still a useful resource nonetheless.
 * [SpaCy](https://github.com/spacy-io/spaCy) is a powerful, production ready, NLP library for python
 * [fastText](https://github.com/facebookresearch/fastText) a C++ library for sentence classification
@@ -107,6 +104,10 @@ algorithms.
 ### Tools
 
 * [inflect.py](https://github.com/pwdyson/inflect.py) Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
+
+### Resources
+
+* [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures) lecture slides and course description for the Deep Natural Language Processing course
 
 ## Images
 
