@@ -11,7 +11,6 @@ emphasis on [python][], [d3][] and web applications.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Machine Learning](#machine-learning)
   - [Resources](#resources)
   - [Frameworks](#frameworks)
@@ -104,6 +103,7 @@ algorithms.
 ### Tools
 
 * [inflect.py](https://github.com/pwdyson/inflect.py) Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
+* [dataprofiler](https://github.com/capitalone/DataProfiler) The DataProfiler is a Python library designed to make data analysis, monitoring and sensitive data detection easy. NLP processing is accomplished using a character-level CNN.
 
 ### Resources
 
