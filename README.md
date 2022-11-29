@@ -155,6 +155,8 @@ via their website, API, or directly into dozens of tools
 * [Visualization Universe](http://visualizationuniverse.com/)
 * [Awesome D3](https://github.com/wbkd/awesome-d3)
 * [Comparison of JavaScript charting libraries](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_charting_libraries)
+* [Explore Data Science](https://kandi.openweaver.com/explore/data-science)
+
 
 ### JavaScript Libraries
 
