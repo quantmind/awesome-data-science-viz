@@ -53,6 +53,7 @@ emphasis on [python][], [d3][] and web applications.
 * [Data science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Python data-science handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+* [Level Financial & AI Benchmark Datasets](https://levelcfo.com/benchmarks/) - Interactive visualizations and open CSV/JSON tables covering SMB financial ratios, software stacks, and the 9.08M commercial building Trade Economy Index ([GitHub](https://github.com/levelcfo/smb-financial-benchmarks) | [TradesIndex](https://tradesindex.org)).
 
 ### Frameworks
 * [Theano][] is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
